@@ -1,3 +1,11 @@
+#Notes from Paul Mason
+- You will need to update the clientId and secret in the config.js file in order for this to work. I did not want to expose my personal keys haha. 
+- Thank you for the opportunity to do this challenge it was alot of fun. 
+
+
+
+
+
 # Spootify Coding Challenge 🎧 &nbsp; ![hard](https://img.shields.io/badge/-Hard-red) ![time](https://img.shields.io/badge/%E2%8F%B0-60m-blue) 
 
 &nbsp;
